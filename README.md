@@ -1,3 +1,3 @@
 # portifolionovobootstrap
 template original: https://builder.bootstrapmade.com/demo/MyResume/
-meusite: https://github.com/10-lucashp/portifolionovobootstrap/portifolio/assets/index.html
+meusite: https://github.com/10-lucashp/portifolionovobootstrap/portifolio/index.html
